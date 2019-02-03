@@ -1,0 +1,6 @@
+2019-02-03 23:08:03 INFO  DailySummaryReport:19 - Started reading the input file.
+2019-02-03 23:08:03 INFO  ProcessFields:20 - Reading the file data...
+2019-02-03 23:08:03 INFO  ProcessData:16 - Calculating the transaction amounts per product of a client
+2019-02-03 23:08:03 INFO  GenerateDailySummaryReport:21 - Started writing data to csv file
+2019-02-03 23:08:03 INFO  GenerateDailySummaryReport:35 - Completed writing data to csv file
+2019-02-03 23:08:03 INFO  DailySummaryReport:30 - Completed reading the input file.
